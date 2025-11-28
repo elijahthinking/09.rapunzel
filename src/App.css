@@ -60,6 +60,7 @@ body {
 }
 .control-screen h2 { font-size: 24px; color: var(--color-text-dark); margin: 5px 0; font-weight: 700; }
 .control-screen p { font-size: 15px; color: var(--color-text-light); margin: 5px 0 15px; }
+.control-screen > p > span{ margin-top: auto; font-size: 18px; background-color: rgba(186, 63, 63, 0.08); }
 
 /* 시작 화면 */
 .title-highlight {

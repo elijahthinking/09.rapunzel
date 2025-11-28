@@ -21,7 +21,7 @@ function StartScreen({ categories, quizData, onStartQuiz }) {
         style={{ width: '120px', height: 'auto', marginBottom: '10px', alignSelf: 'center', borderRadius: '50%' }}
       />
       <h1>👸<span className="title-highlight"> 라푼젤 퀴즈</span></h1>
-      <p>풀고 싶은 카테고리를 선택해 주세요.</p>
+      <p><span>풀고 싶은 카테고리를 선택해 주세요.</span></p>
       
       <div className="category-grid">
         {categories.map((cat, index) => {

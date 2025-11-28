@@ -87,8 +87,9 @@ body {
         .control-screen p {
             font-size: 16px;
             color: var(--color-text-light);
+            /* background-color: rgba(255, 0, 0, 0.7); */
             margin-top: 5px; 
-            margin-bottom: 30px; 
+            margin-bottom: 5px; 
         }
         
         /* 카테고리 그리드 레이아웃 */
