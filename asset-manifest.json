@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/09.rapunzel/static/css/main.b5afc3aa.css",
+    "main.css": "/09.rapunzel/static/css/main.cc063e4a.css",
     "main.js": "/09.rapunzel/static/js/main.4b2d22bd.js",
     "index.html": "/09.rapunzel/index.html",
-    "main.b5afc3aa.css.map": "/09.rapunzel/static/css/main.b5afc3aa.css.map",
+    "main.cc063e4a.css.map": "/09.rapunzel/static/css/main.cc063e4a.css.map",
     "main.4b2d22bd.js.map": "/09.rapunzel/static/js/main.4b2d22bd.js.map"
   },
   "entrypoints": [
-    "static/css/main.b5afc3aa.css",
+    "static/css/main.cc063e4a.css",
     "static/js/main.4b2d22bd.js"
   ]
 }
