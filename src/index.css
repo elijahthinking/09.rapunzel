@@ -244,6 +244,13 @@ body {
             /* background-color: rgba(0, 0, 0, 0.03); */
         }
 
+        .quiz-title {
+            font-size: 18px;
+            color: White;
+            background-color: royalblue;
+            margin-bottom: 8px;
+        }
+
         .question-text {
             font-size: 22px;
             font-weight: 600;
