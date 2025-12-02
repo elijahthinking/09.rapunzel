@@ -18,10 +18,10 @@ function ResultScreen({ finalScore, totalCount, correctCount, onRestart }) {
     <div className="control-screen">
       <h2 style={{marginTop: '50px'}}>👑 퀴즈 종료! 👑</h2>
       <p id="finalScoreText">{finalScore}점</p>
-      <p style={{fontSize: '18px'}}>
+      <p style={{fontSize: '18px', backgroundColor: '#f0f8ff', padding: '15px', borderRadius: '8px'}}>
         (총 {totalCount}문제 중 <strong>{correctCount}</strong> 문제 정답)
       </p>
-      <p style={{margin: '20px 0', lineHeight: '1.6'}}>{message}</p>
+      <p style={{margin: '20px 0', lineHeight: '1.6' , backgroundColor: '#f0f8ff', padding: '15px', borderRadius: '8px'}}>{message}</p>
       <button className="result-btn" onClick={onRestart}>
         새로운 퀴즈 시작하기
       </button>
